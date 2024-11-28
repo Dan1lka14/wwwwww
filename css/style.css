@@ -1,0 +1,66 @@
+
+
+.dosis-text {
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+* {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.title {
+    background-color: #3cdfdf;
+    text-align: center;
+
+}
+.head{
+    font-family: 'Playfair Display';
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.head2{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.container {
+    margin: 20px 0 20px 0;
+    align-items: center;
+    background-color: rgb(159, 94, 233);
+    font-family: 'Dosis';
+    padding: 20px 40px 40px 40px;
+}
+
+.container table {
+   
+    border-spacing: 15px;
+}
+
+
+td {
+    width: 300px;
+    height: 320px;
+    text-align: center;
+}
+
+.img-good {
+    width: 300px;
+    height: 320px;
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+    color:#000000;
+}
+
+#fon {
+    background-color: #ffffff;
+}
